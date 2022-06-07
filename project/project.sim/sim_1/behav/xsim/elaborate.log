@@ -1,0 +1,7 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: D:/Xilinxx/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto 0bcc545b6efc4339b2a3c6af1b1b673c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L secureip --snapshot project_behav xil_defaultlib.project -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2335] case statement does not cover all choices. 'others' clause is needed [C:/Users/amiri/project/project.srcs/sources_1/new/seven_segment.vhd:18]
+ERROR: [XSIM 43-3321] Static elaboration of top level VHDL design unit project in library work failed.
